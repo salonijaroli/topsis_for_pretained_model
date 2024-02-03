@@ -1,0 +1,4 @@
+Model,cosine_similarity,euclidean_distance,manhattan_distance,minkowski_distance,correlation_coefficient,TOPSIS_Score,Topsis_rank
+sentence-transformers/msmarco-distilbert-dot-v5,1.0,0.0,0.0,0.0,1.0,1.7320508075688772,3.0
+hackathon-pln-es/paraphrase-spanish-distilroberta,0.0,0.5286114,0.49782565,0.5388670611855632,0.0,1.639216231784695,2.0
+sentence-transformers/paraphrase-albert-base-v2,0.4291686,1.0,1.0,1.0,0.42907697201343986,0.8073422927604778,1.0
